@@ -6,3 +6,4 @@ Segue a explicação de cada arquivo:</br>
 * emotion\_model.py: executa o modelo Transformer, treinado por fine-tuning, para previsão de emoções.
 * pipeline\_sem\_llm.py: executa a geração de imagens a partir do texto do usuário + emoções.
 * pipeline\_com\_llm.py: executa a melhoria do texto de prompt a partir do texto do usuário + emoções e em seguida executa a geração de imagens.
+* Anexo I – Evidências dos Testes: contendo as evidências dos 9 testes executados para o sistema.
